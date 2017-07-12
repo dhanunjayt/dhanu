@@ -1,0 +1,1 @@
+print("Chanda re chanda re kabhi to zameen par aa  \nBaithenge baatein karenge\n\nChanda re chanda re kabhi to zameen par aa \nBaithenge baatein karenge  \n\nTujhko aate idhar laaj aaye agar \nOdh ke aaja tu baadal ghane")
